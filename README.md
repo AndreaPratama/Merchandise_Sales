@@ -1,4 +1,4 @@
-# Sales Analysis Project  
+# Merchandise Analysis
 
 ## 1. Introduction  
 This project is focused on analyzing sales data using **Power BI** to generate actionable insights and identify key trends in sales performance, product popularity, regional contributions, and customer demographics. The ultimate goal is to provide recommendations for improving business strategies and driving growth.  
