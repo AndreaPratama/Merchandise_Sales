@@ -163,6 +163,8 @@ In this Dashboard there are 3 pages :
 
 You can interact with report here [Onyx Data January 2025 Challenge](-)
 
+![](dashboard.png) 
+
 ### Insights : 
 #### Overall Sales Trends  
 - Sales have steadily increased from **November 2023 to October 2024**, with a significant peak observed in **May 2024**.  
