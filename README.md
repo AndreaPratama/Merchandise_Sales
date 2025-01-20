@@ -153,7 +153,15 @@ The analysis was conducted entirely in **Power BI**, leveraging its visualizatio
 - **Category Performance**: Bar charts and pie charts to compare product categories.  
 - **Regional Heatmaps**: Visualizing sales by geographic location.  
 - **Customer Insights**: Demographic breakdowns and feedback analysis.  
-- **Interactive Dashboards**: Allowing users to filter data by category, region, and time period for deeper insights. 
+- **Interactive Dashboards**: Allowing users to filter data by category, region, and time period for deeper insights.
+
+In this Dashboard there are 3 pages :
+
+- Performance
+- Delivery
+- Review 
+
+You can interact with report here [Onyx Data January 2025 Challenge](-)
 
 ### Insights : 
 #### Overall Sales Trends  
