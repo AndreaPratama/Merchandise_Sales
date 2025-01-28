@@ -161,7 +161,7 @@ In this Dashboard there are 3 pages :
 - Delivery
 - Review 
 
-You can interact with report here [Onyx Data January 2025 Challenge](https://app.powerbi.com/view?r=eyJrIjoiYTg4N2ViNzAtZWI0OC00NDgzLWFiMDItY2MxZDcwYjAwOGUxIiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9)
+You can interact with report here [Onyx Data January 2025 Challenge](https://zoomcharts.com/en/microsoft-power-bi-custom-visuals/challenges/submission/7aca2655f8c02f248638caa5fce9dc9e?challenge=onyx-data-january-2025)
 
 ![](dashboard.png) 
 
@@ -253,7 +253,7 @@ The analysis of Lee Chatmen's merchandise sales provides the following key takea
 ---  
 
 ### Repository Contents  
-- **Power BI Dashboard File**: The main [PBIX File]() containing the analysis and visualizations. 
+- **Power BI Dashboard File**: The main [PBIX File](https://zoomcharts.com/en/microsoft-power-bi-custom-visuals/challenges/submission/7aca2655f8c02f248638caa5fce9dc9e?challenge=onyx-data-january-2025) containing the analysis and visualizations. 
 - **Data Sources**: [Raw Dataset](Merchandise_Sales_Analysis.xlsx) used in the project.  
 - **Screenshots/Reports**: Exported visualizations for sharing insights.  
 - **README.md**: Project documentation (this file).  
