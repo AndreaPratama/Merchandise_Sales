@@ -248,7 +248,17 @@ The analysis of Lee Chatmen's merchandise sales provides the following key takea
    Maintain high product ratings by addressing customer feedback promptly. Highlight customer reviews in marketing materials to build trust and credibility.  
 
 8. **Invest in Review Analysis:**  
-   Continue analyzing customer reviews for actionable insights. Identify patterns in sentiment to address concerns and improve customer satisfaction.    
+   Continue analyzing customer reviews for actionable insights. Identify patterns in sentiment to address concerns and improve customer satisfaction.
+
+## Achievements
+- 🥇 **Top 5 Finalists** in the Onyx Data January Challenge.
+
+
+| Top 5 Finalists | Badge |
+|----------|----------|
+| ![](top_5_Andreas_Miftakhul_Pratama_page-0001.jpg) | ![](onyx_Data_Badge_January.png)
+
+Winner Announcement [Zoomchart](https://www.linkedin.com/feed/update/urn:li:activity:7290783328633344000/)    
 
 ---  
 
